@@ -19,13 +19,9 @@ jobs:
         with:
           go-version: '1.21'
 
-      - name: Build h1domains
-        run: |
-          go build -o h1domains main.go
-
       - name: Fetch current programs
-        run: |
-          ./h1domains > current_programs.txt
+  run: go run main.go > current_programs.txt
+
 
       - name: Compare with previous programs
         id: compare
