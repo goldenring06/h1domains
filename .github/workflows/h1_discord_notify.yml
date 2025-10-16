@@ -20,8 +20,7 @@ jobs:
           go-version: '1.21'
 
       - name: Fetch current programs
-  run: go run main.go > current_programs.txt
-
+        run: go run main.go > current_programs.txt
 
       - name: Compare with previous programs
         id: compare
@@ -34,10 +33,9 @@ jobs:
             echo "first_run=false" >> $GITHUB_OUTPUT
             NEW_COUNT=$(wc -l < new_programs.txt)
             echo "new_count=$NEW_COUNT" >> $GITHUB_OUTPUT
-          fi
 
       - name: Send Discord notification if new programs
-        if: steps.compare.outputs.first_run == 'false' && steps.compare.outputs.new_count != '0'
+        if: ${{ steps.compare.outputs.first_run == 'false' && steps.compare.outputs.new_count != '0' }}
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
@@ -51,7 +49,7 @@ jobs:
                $DISCORD_WEBHOOK
 
       - name: Update old programs
-        if: steps.compare.outputs.first_run == 'false'
+        if: ${{ steps.compare.outputs.first_run == 'false' }}
         run: |
           cp current_programs.txt old_programs.txt
           git config user.name "github-actions"
