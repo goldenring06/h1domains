@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 16 09:20:57 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 16 10:20:00 UTC 2025)
 ```
 gamma.grab.co
 woocommerce-adapter.judge.me
