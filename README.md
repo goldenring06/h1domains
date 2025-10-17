@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 17 21:18:34 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 17 22:17:22 UTC 2025)
 ```
 fortnite.com
 secure.chaturbate.com
