@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 16 23:18:42 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 17 01:13:50 UTC 2025)
 ```
 yourdomain.freshservice.com
 uapi-front.etoro.com
