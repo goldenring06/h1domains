@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 17 12:37:56 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 17 13:29:13 UTC 2025)
 ```
 *.artstation.com
 firefly.adobe.com
