@@ -7,11 +7,11 @@ lichess,https://github.com/Lichess4545,False
 lichess,https://lichess.org/source,False
 lichess,https://github.com/lichess-org/lila,False
 lichess,https://github.com/lichess-org/lila-ws,False
+lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
-lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
-lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
 lightspark_bbp,https://github.com/buildonspark/spark,True
@@ -50,5 +50,3 @@ chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
 leather_wallet,https://github.com/leather-wallet/extension,True
-aleo,https://github.com/ProvableHQ/snarkOS,True
-aleo,https://github.com/ProvableHQ/snarkVM,True
