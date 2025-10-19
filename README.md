@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 19 19:13:52 UTC 2025)
+## Domains with Bounties (Last Updated Sun Oct 19 20:18:29 UTC 2025)
 ```
 *.mercadopago.com.pe
 porschezentrum-muenchen-sued.de
