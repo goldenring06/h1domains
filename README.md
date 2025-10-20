@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Oct 20 21:19:40 UTC 2025)
+## Domains with Bounties (Last Updated Mon Oct 20 22:16:28 UTC 2025)
 ```
 *.streamlabs.com
 app.grammarly.com
