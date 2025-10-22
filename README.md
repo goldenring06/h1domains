@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 22 11:16:53 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 22 12:36:56 UTC 2025)
 ```
 media.drogas.lt
 localizestaging.com
