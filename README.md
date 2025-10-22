@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 22 03:13:36 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 22 04:20:59 UTC 2025)
 ```
 yelptop100.com
 www.logicool.co.jp
