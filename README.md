@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 23 19:14:51 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 23 20:19:55 UTC 2025)
 ```
 taxis.booking.com
 https://gcsm.oppoit.com/
