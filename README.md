@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 23 05:17:56 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 23 06:26:45 UTC 2025)
 ```
 sparks-qa.wnba.com
 www.paypal-*.com
