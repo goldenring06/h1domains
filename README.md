@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 23 22:19:40 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 23 23:15:45 UTC 2025)
 ```
 http://api.koho.ca/partner
 moneybirdstorage.com
