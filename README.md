@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 24 11:19:35 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 24 12:36:57 UTC 2025)
 ```
 *.braintreepayments.com
 *.amazon.com.be
