@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct 26 17:14:59 UTC 2025)
+## Domains with Bounties (Last Updated Sun Oct 26 18:22:46 UTC 2025)
 ```
 cpanel.hostinger.com
 porsche-zentrum-seestern.de
