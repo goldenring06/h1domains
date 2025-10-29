@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Oct 28 23:19:36 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 29 01:20:29 UTC 2025)
 ```
 join.marriott.com
 www.livestream.com
