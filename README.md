@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 29 16:26:51 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 29 17:17:38 UTC 2025)
 ```
 sun-qa.wnba.com
 http://coinbase.com
