@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 29 09:18:59 UTC 2025)
+## Domains with Bounties (Last Updated Wed Oct 29 10:19:59 UTC 2025)
 ```
 porsche-zentrum-wuppertal.de
 ablink.info.remitly.com
