@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 30 04:20:55 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 30 05:17:57 UTC 2025)
 ```
 www.sustainability.booking.com
 www.dolap.com
