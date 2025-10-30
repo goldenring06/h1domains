@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Oct 30 10:22:26 UTC 2025)
+## Domains with Bounties (Last Updated Thu Oct 30 11:15:56 UTC 2025)
 ```
 *.saytechnologies.com
 porsche-giessen.de
