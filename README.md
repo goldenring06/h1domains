@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Oct 31 21:15:57 UTC 2025)
+## Domains with Bounties (Last Updated Fri Oct 31 22:16:58 UTC 2025)
 ```
 medias.fortress.com.hk
 developer.visa.com
