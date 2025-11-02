@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov  2 13:22:19 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov  2 14:14:52 UTC 2025)
 ```
 payroll.razorpay.com
 prd-ring-web-us.prd.rings.solutions
