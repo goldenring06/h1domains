@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov  3 22:17:58 UTC 2025)
+## Domains with Bounties (Last Updated Mon Nov  3 23:16:46 UTC 2025)
 ```
 www.visa.co.in
 gleague-qa.nba.com
