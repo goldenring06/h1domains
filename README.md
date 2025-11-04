@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov  4 16:25:28 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov  4 17:16:20 UTC 2025)
 ```
 push.services.mozilla.com
 mailpoet.com
