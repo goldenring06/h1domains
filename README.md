@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov  5 17:22:52 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov  5 18:25:28 UTC 2025)
 ```
 www.kpharmacyllc.com
 porsche-hamburgnordwest.de
