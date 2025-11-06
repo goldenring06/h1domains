@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  6 12:39:27 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov  6 13:32:45 UTC 2025)
 ```
 www.creditkarma.ca
 efast.marriott.com
