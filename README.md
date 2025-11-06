@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov  6 03:16:40 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov  6 04:24:49 UTC 2025)
 ```
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 www.watsons.co.id
