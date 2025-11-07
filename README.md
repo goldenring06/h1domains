@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov  7 22:19:49 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov  7 23:16:22 UTC 2025)
 ```
 intercity.indrive.com
 https://www.drogas.lt/blog
