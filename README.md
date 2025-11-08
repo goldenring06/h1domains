@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov  8 05:17:00 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov  8 06:23:57 UTC 2025)
 ```
 mark8.syfe.com
 niantic.kidswebservices.com
