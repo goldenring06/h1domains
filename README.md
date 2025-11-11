@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 11 15:23:42 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov 11 16:22:42 UTC 2025)
 ```
 h1-your-domain.zendesk.com
 *.napoleongames.be
