@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 13 17:18:52 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 13 18:25:47 UTC 2025)
 ```
 app.iciparisxl.nl
 porsche-ulm.de
