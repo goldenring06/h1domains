@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 14 20:24:29 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 14 21:17:03 UTC 2025)
 ```
 www.fraedom.com
 https://ebctest.cybersource.com/sms
