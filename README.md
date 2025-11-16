@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 16 18:23:10 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 16 19:13:53 UTC 2025)
 ```
 www.sheer.com
 *.nflxvideo.net
