@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Nov 17 01:22:39 UTC 2025)
+## Domains with Bounties (Last Updated Mon Nov 17 03:14:59 UTC 2025)
 ```
 horizonchase.com
 grab.careers
