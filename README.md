@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Nov 18 18:31:09 UTC 2025)
+## Domains with Bounties (Last Updated Tue Nov 18 19:16:15 UTC 2025)
 ```
 corp.badoo.com
 one.dash.cloudflare.com
