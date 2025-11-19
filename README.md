@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Nov 19 08:28:03 UTC 2025)
+## Domains with Bounties (Last Updated Wed Nov 19 09:20:56 UTC 2025)
 ```
 *.skycasino.com
 porschezentrum-berlin.de
