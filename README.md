@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 21 07:18:38 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 21 08:26:35 UTC 2025)
 ```
 *.mercadolibre.cl
 porschezentrum-berlin.de
