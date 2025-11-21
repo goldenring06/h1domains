@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 21 15:19:51 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 21 16:22:42 UTC 2025)
 ```
 mercadolivreexperience.com.br/
 https://pay.payzippy.com
