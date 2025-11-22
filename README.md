@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 22 08:21:46 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov 22 09:17:50 UTC 2025)
 ```
 *.mercadolibre.com.mx
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/ips/bydst/details
