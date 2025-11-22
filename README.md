@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 22 04:23:37 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov 22 05:16:49 UTC 2025)
 ```
 *.prd.fndlsb.net
 amazonpayinsurance.in
