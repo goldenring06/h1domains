@@ -1,6 +1,6 @@
 handle,source_code,eligible_for_bounty
-northerntechhq,https://github.com/mendersoftware/mender-server,True
 northerntechhq,https://github.com/mendersoftware/mender,True
+northerntechhq,https://github.com/mendersoftware/mender-server,True
 northerntechhq,https://github.com/	 https://github.com/cfengine/core,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
@@ -35,8 +35,8 @@ supabase,https://github.com/supabase,False
 anthropic-vdp,https://github.com/modelcontextprotocol,False
 pagerduty,https://github.com/rundeck/rundeck,False
 pagerduty,https://github.com/rundeck/rundeck-cli,False
-circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
+circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
@@ -47,4 +47,3 @@ chia_network,https://github.com/Chia-Network/chiapos,True
 chia_network,https://github.com/Chia-Network/chia-blockchain,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
-leather_wallet,https://github.com/leather-wallet/extension,True
