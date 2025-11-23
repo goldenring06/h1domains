@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 23 21:17:03 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 23 22:16:42 UTC 2025)
 ```
 my.sheer.com
 zelleservice.my.site.com
