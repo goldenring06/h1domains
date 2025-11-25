@@ -4,12 +4,12 @@ northerntechhq,https://github.com/mendersoftware/mender,True
 northerntechhq,https://github.com/	 https://github.com/cfengine/core,True
 silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
-lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
-lightspark_bbp,https://github.com/buildonspark/lrc20,True
-lightspark_bbp,https://github.com/buildonspark/spark,True
+lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/js-sdk,True
+lightspark_bbp,https://github.com/buildonspark/lrc20,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
+lightspark_bbp,https://github.com/buildonspark/spark,True
 lightspark_bbp,https://github.com/lightsparkdev/python-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/go-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/kotlin-sdk,True
@@ -48,4 +48,3 @@ chia_network,https://github.com/Chia-Network/chia_rs,True
 chia_network,https://github.com/Chia-Network/clvm_rs,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
-leather_wallet,https://github.com/leather-wallet/extension,True
