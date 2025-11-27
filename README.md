@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 27 04:26:03 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 27 05:19:45 UTC 2025)
 ```
 *.betfair.se
 www.crowdstrike.com
