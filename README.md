@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Nov 27 17:17:20 UTC 2025)
+## Domains with Bounties (Last Updated Thu Nov 27 18:24:35 UTC 2025)
 ```
 porsche-zentrum-wuppertal.de
 *.fanbox.cc
