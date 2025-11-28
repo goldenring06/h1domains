@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 28 07:21:39 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 28 08:27:31 UTC 2025)
 ```
 studio-fa-porsche.net
 streams.etoro.com
