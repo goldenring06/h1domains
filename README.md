@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 28 17:19:00 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 28 18:24:56 UTC 2025)
 ```
 *.coinbase.com
 ws1.dashlane.com
