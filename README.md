@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Nov 28 03:10:09 UTC 2025)
+## Domains with Bounties (Last Updated Fri Nov 28 04:23:18 UTC 2025)
 ```
 https://app.insomnia.rest/
 zelleservice.my.site.com
