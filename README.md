@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Nov 29 07:16:36 UTC 2025)
+## Domains with Bounties (Last Updated Sat Nov 29 08:22:44 UTC 2025)
 ```
 www.fewo-direkt.de
 *.foliofirst.com
