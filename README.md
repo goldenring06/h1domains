@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 30 21:18:31 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 30 22:16:48 UTC 2025)
 ```
 faucet.polygon.technology
 biolibre.mx
