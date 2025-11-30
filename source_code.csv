@@ -48,3 +48,5 @@ chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
 toolsforhumanity,https://github.com/worldcoin,True
 dynatrace,https://github.com/Dynatrace,True
+leather_wallet,https://github.com/leather-wallet/extension,True
+zabbix,https://www.zabbix.com/download_sources,True
