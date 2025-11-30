@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 30 15:16:42 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 30 16:21:29 UTC 2025)
 ```
 www.bitstrips.com
 upld.krisp.ai
