@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 30 06:26:50 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 30 07:16:47 UTC 2025)
 ```
 www.compass.com
 furydocs.io
