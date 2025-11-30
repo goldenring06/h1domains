@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Nov 30 09:18:00 UTC 2025)
+## Domains with Bounties (Last Updated Sun Nov 30 10:17:43 UTC 2025)
 ```
 https://ebctest.cybersource.com/CGK2
 www.fi.dyson.com
