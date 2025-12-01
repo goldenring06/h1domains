@@ -2,8 +2,8 @@ handle,source_code,eligible_for_bounty
 northerntechhq,https://github.com/mendersoftware/mender,True
 northerntechhq,https://github.com/	 https://github.com/cfengine/core,True
 northerntechhq,https://github.com/mendersoftware/mender-server,True
-silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 silabs,https://github.com/SiliconLabsSoftware/matter_extension,True
+silabs,https://github.com/SiliconLabsSoftware/matter_sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
 lightspark_bbp,https://github.com/lightsparkdev/lightspark-rs,True
