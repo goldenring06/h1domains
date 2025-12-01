@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  1 12:41:17 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec  1 13:36:52 UTC 2025)
 ```
 http://staking.consensys.io
 web.grindr.com
