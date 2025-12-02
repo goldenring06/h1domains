@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  2 09:27:38 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec  2 10:20:50 UTC 2025)
 ```
 api.localizestaging.com
 *.floqast.app
