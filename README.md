@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  3 21:17:30 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec  3 22:23:39 UTC 2025)
 ```
 eu1.badoo.com
 https://u.oppomobile.com/
