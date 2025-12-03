@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  3 10:21:58 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec  3 11:18:22 UTC 2025)
 ```
 console.ort-one-pingone.com
 https://link.uma.me
