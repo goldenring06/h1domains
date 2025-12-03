@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec  3 13:39:30 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec  3 14:21:14 UTC 2025)
 ```
 moneybird.com
 api.pns.hk
