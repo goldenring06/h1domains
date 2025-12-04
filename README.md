@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  4 05:22:30 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec  4 06:28:35 UTC 2025)
 ```
 couriers.indrive.com
 http://www.bybit.com/en/alpha/overview/
