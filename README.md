@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec  5 12:40:20 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec  5 13:31:55 UTC 2025)
 ```
 dealer.porsche.com
 https://www.myntra.com
