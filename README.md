@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec  4 23:21:14 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec  5 01:20:44 UTC 2025)
 ```
 new-order.eu-east-1.indriverapp.com
 store.playstation.com
