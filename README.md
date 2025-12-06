@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec  6 01:16:44 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec  6 03:08:54 UTC 2025)
 ```
 mipartnerprivileges.marriott.com
 prod.porsche-design.com
