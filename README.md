@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec  8 19:19:25 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec  8 20:22:11 UTC 2025)
 ```
 app.faraday.ai
 book.booktandl.com
