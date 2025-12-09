@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec  9 06:28:48 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec  9 07:24:24 UTC 2025)
 ```
 app.launchdarkly.com
 *.amplitude-game.com
