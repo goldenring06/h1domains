@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 11 05:25:15 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 11 06:32:15 UTC 2025)
 ```
 www.prisma.fi
 developer.worldcoin.org
