@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Dec 12 19:20:10 UTC 2025)
+## Domains with Bounties (Last Updated Fri Dec 12 20:20:48 UTC 2025)
 ```
 links.geneva-staging.chat
 billing.etoro.com
