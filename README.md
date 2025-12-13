@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 13 05:22:29 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 13 06:26:48 UTC 2025)
 ```
 *-asia-south1.truecaller.com
 cache.marriott.com
