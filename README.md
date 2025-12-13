@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 13 18:27:08 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 13 19:14:56 UTC 2025)
 ```
 porsche-stuttgart-flughafen.de
 www.cybersource.com
