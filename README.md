@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 14 11:18:48 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 14 12:34:21 UTC 2025)
 ```
 www.s-kaupat.fi
 https://ebctest.cybersource.com/riskui
