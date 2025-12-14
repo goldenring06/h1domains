@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 14 19:14:46 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 14 20:19:43 UTC 2025)
 ```
 www.dyson.co.nz
 porsche-zentrum-seestern.de
