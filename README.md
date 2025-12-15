@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 15 07:26:47 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec 15 08:29:38 UTC 2025)
 ```
 https://superbet.ro
 you.23andme.com
