@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 16 23:21:49 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 17 01:18:39 UTC 2025)
 ```
 *.lemonsqueezy.com
 mod.reddit.com
