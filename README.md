@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 18 05:22:22 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 18 06:29:49 UTC 2025)
 ```
 *.mercadolibre.com.mx
 cweb-ott.nba.com
