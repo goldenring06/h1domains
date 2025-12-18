@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 18 03:22:50 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 18 04:32:40 UTC 2025)
 ```
 www.rockstargames.com
 developer-platform-api.crypto.com
