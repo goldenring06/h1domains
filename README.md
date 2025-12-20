@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Dec 20 11:14:53 UTC 2025)
+## Domains with Bounties (Last Updated Sat Dec 20 12:33:46 UTC 2025)
 ```
 biolibre.mx
 matrix.redditspace.com
