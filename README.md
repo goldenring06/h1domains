@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Dec 23 11:18:16 UTC 2025)
+## Domains with Bounties (Last Updated Tue Dec 23 12:40:20 UTC 2025)
 ```
 xn--porsche-lneburg-7vb.de
 *.nflximg.net
