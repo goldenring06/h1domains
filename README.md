@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 24 13:32:12 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 24 14:18:50 UTC 2025)
 ```
 https://ebctest.cybersource.com/tms
 *.dancecentral.com
