@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 24 08:26:52 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 24 09:24:34 UTC 2025)
 ```
 mediacenter.23andme.com
 www.mercadolibre.com.sv
