@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 25 14:19:49 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 25 15:20:33 UTC 2025)
 ```
 mystics-qa.wnba.com
 webhooks.booking.com
