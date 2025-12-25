@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Dec 25 11:16:50 UTC 2025)
+## Domains with Bounties (Last Updated Thu Dec 25 12:38:28 UTC 2025)
 ```
 grok.com
 www.blueskytours.com
