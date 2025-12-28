@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 28 03:49:31 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 28 04:42:44 UTC 2025)
 ```
 beta-cloud.acronis.com
 account.booking.com
