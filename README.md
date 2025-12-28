@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Dec 28 11:16:24 UTC 2025)
+## Domains with Bounties (Last Updated Sun Dec 28 12:35:42 UTC 2025)
 ```
 www.starbucks.co.jp
 cardpayments.remitly.io
