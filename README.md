@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Dec 29 03:50:24 UTC 2025)
+## Domains with Bounties (Last Updated Mon Dec 29 04:47:19 UTC 2025)
 ```
 www.fitvermogen.nl
 vth.nba.com
