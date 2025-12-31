@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 31 15:20:35 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 31 16:27:19 UTC 2025)
 ```
 www.temu.com
 *.mercadopago.com.uy
