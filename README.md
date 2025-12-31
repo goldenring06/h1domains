@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Dec 31 04:40:21 UTC 2025)
+## Domains with Bounties (Last Updated Wed Dec 31 05:25:53 UTC 2025)
 ```
 *.gsselect.com
 presentationtracking.netflix.com
