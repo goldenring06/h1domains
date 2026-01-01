@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  1 06:31:29 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan  1 07:21:59 UTC 2026)
 ```
 portalinmobiliario.cl
 secure.newegg.ca
