@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan  2 18:30:18 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan  2 19:13:39 UTC 2026)
 ```
 niantic.kidswebservices.com
 https://ebctest.cybersource.com/riskui
