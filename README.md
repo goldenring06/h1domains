@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  3 12:36:14 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan  3 13:27:59 UTC 2026)
 ```
 superbet.bet.br
 *.iciparisxl.lu
