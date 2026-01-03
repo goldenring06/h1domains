@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan  3 18:28:49 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan  3 19:15:45 UTC 2026)
 ```
 ssm-marriottms.saviyntcloud.com
 social.geneva-staging.chat
