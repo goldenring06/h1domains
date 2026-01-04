@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan  4 09:21:31 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan  4 10:18:58 UTC 2026)
 ```
 *.budgetair.com
 playwonderbox.com.br
