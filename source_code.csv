@@ -183,8 +183,8 @@ arkadiyt-projects,https://github.com/arkadiyt/zoom-redirector,False
 valve,https://github.com/valvesoftware,False
 rootstocklabs,https://github.com/rsksmart/bridges-core-sdk,True
 rootstocklabs,https://github.com/rsksmart/powpeg-node,True
-rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/flyover-sdk,True
+rootstocklabs,https://github.com/rsksmart/2wp-app,True
 rootstocklabs,https://github.com/rsksmart/liquidity-bridge-contract,True
 rootstocklabs,https://github.com/rsksmart/2wp-api,True
 rootstocklabs,https://github.com/rsksmart/rskj,True
@@ -206,10 +206,10 @@ wordpress,https://github.com/ github.com/WordPress,True
 discourse,https://github.com/discourse/discourse,True
 brave,https://github.com/brave-intl/bat-publisher,True
 brave,https://github.com/brave-intl/bat-balance,True
-brave,https://github.com/brave-intl/bat-go,True
-brave,https://github.com/brave-intl/publishers,True
 brave,https://github.com/brave-intl/bat-ledger,True
 brave,https://github.com/brave-intl/bat-client,True
+brave,https://github.com/brave-intl/publishers,True
+brave,https://github.com/brave-intl/bat-go,True
 brave,https://github.com/brave/vault-updater,True
 brave,https://github.com/brave/*,True
 brave,https://github.com/ https://github.com/brave-intl/*,True
