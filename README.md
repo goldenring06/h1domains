@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  6 19:19:36 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan  6 20:21:59 UTC 2026)
 ```
 *.mgmt.fndlsb.net
 one.dash.cloudflare.com
