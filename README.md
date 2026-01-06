@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan  6 21:23:08 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan  6 22:24:57 UTC 2026)
 ```
 api.excalls.mobi
 www.drogas.lv
