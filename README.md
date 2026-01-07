@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan  7 18:33:54 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan  7 19:19:53 UTC 2026)
 ```
 help.steampowered.com
 meu1.badoo.com
