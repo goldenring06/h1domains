@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  8 18:29:22 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan  8 19:19:10 UTC 2026)
 ```
 http://myvisainfinite.com/suntrust/en_us/home.html
 sync.logitech.com
