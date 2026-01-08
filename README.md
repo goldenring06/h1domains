@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan  8 07:27:08 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan  8 08:27:49 UTC 2026)
 ```
 https://kyc.ripio.com/
 datapod-1-100-druid-ingest.development.forescoutcloud.net
