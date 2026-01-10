@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 10 12:38:38 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 10 13:28:33 UTC 2026)
 ```
 *.exodus.io
 https://ebctest.cybersource.com/boarding/v1/registrations
