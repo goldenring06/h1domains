@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 10 20:20:18 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 10 21:16:37 UTC 2026)
 ```
 booking.cheapcaribbean.com
 netlify-cdp-loader.netlify.app
