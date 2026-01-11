@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 10 23:21:02 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 01:41:59 UTC 2026)
 ```
 *.paddypower.com
 mgmt-sensors.iris.production.forescoutcloud.net
