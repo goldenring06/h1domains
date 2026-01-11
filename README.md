@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 11 07:23:27 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 08:24:01 UTC 2026)
 ```
 biolibre.ar
 https://crypto.com/price
