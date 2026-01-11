@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 11 14:20:40 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 15:18:51 UTC 2026)
 ```
 *.8x8.vc
 bbpress.org
