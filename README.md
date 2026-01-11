@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 11 03:51:38 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 11 04:45:46 UTC 2026)
 ```
 api.remitly.io
 marrtool.com
