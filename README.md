@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 13 10:23:15 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 13 11:19:18 UTC 2026)
 ```
 shopifyinbox.com
 cruises.priceline.com
