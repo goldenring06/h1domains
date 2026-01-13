@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 13 22:24:24 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 13 23:19:17 UTC 2026)
 ```
 *.apigwc.marriott.com
 coda.grammarly.com
