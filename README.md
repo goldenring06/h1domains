@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 13 20:27:07 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 13 21:20:59 UTC 2026)
 ```
 www.forescout.com
 *.nflxext.com
