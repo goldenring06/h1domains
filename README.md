@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 15 07:27:35 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan 15 08:30:35 UTC 2026)
 ```
 www.4njbets.com
 fetlife.com
