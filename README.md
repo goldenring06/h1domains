@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 15 12:43:36 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan 15 13:40:33 UTC 2026)
 ```
 *.gocardless-cicd.io
 www.redoxengine.com
