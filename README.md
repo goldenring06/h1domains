@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 16 20:23:57 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 16 21:19:46 UTC 2026)
 ```
 www.cardinalcommerce.com
 *.infra-prod.nsvcs.net
