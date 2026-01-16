@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 16 06:34:31 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 16 07:24:42 UTC 2026)
 ```
 *.gs-mosaic.qa.gs.com
 cloud.malwarebytes.com
