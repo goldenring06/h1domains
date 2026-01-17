@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 17 09:21:52 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 17 10:20:20 UTC 2026)
 ```
 *.mytrainpal.com
 gateway.reddit.com
