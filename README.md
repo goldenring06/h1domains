@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 18 03:47:55 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 18 04:40:59 UTC 2026)
 ```
 *.p8t.us
 www.ebookers.fi
