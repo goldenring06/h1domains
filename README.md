@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 19 07:31:29 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 19 08:30:02 UTC 2026)
 ```
 usa.visa.com
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
