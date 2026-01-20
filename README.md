@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 20 12:46:55 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 20 13:46:03 UTC 2026)
 ```
 remitly.com
 https://ebctest.cybersource.com/processorconfigapi
