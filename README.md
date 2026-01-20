@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 20 18:37:19 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 20 20:11:40 UTC 2026)
 ```
 http://vimeo.com/create
 mystics-dev.wnba.com
