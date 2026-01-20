@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 20 03:45:51 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 20 04:43:44 UTC 2026)
 ```
 visa.com.au
 checkout.vimeo.com
