@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 21 04:42:54 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 21 05:32:00 UTC 2026)
 ```
 shop.tiktok.com
 buckingfuggy.com
