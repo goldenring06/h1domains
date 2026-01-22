@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 22 13:48:25 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan 22 14:31:32 UTC 2026)
 ```
 www.tink.com
 *ubereats.com
