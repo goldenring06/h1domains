@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jan 24 16:25:22 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jan 24 17:16:53 UTC 2026)
 ```
 https://my.exness.com/pa/pim/manager
 manage-teams-uat.nba.com
