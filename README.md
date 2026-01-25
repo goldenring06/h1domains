@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jan 25 16:22:55 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jan 25 17:16:54 UTC 2026)
 ```
 cweb-ott-uat-uc.nba.com
 https://nominatim.bykea.net
