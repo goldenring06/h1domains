@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 26 06:37:09 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 26 07:26:54 UTC 2026)
 ```
 bcny.com
 streaming.iris.production.forescoutcloud.net
