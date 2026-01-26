@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 26 17:28:40 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 26 18:31:57 UTC 2026)
 ```
 api.klarna.com
 www.cybersource.com
