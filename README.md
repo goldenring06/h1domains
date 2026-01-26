@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jan 26 04:54:51 UTC 2026)
+## Domains with Bounties (Last Updated Mon Jan 26 05:32:34 UTC 2026)
 ```
 openapiportal.m-pesa.com
 identi.robinhood.com
