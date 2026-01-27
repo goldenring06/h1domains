@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 27 05:25:50 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 27 06:32:57 UTC 2026)
 ```
 api.amazonalexa.com/*
 business-resources.truecaller.com
