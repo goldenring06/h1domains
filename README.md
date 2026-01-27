@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jan 27 18:43:12 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jan 27 19:27:29 UTC 2026)
 ```
 http://www.kiwi.com/stories
 http://greenchannel.payoneer.com.cn/gcportal
