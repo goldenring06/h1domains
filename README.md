@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jan 28 07:27:56 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jan 28 08:29:58 UTC 2026)
 ```
 mercury-dev.wnba.com
 *.adaptive-shield.com
