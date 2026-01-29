@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Jan 29 11:32:23 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jan 29 12:52:53 UTC 2026)
 ```
 alternativa.film
 skills-store.amazon.com
