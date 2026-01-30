@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 30 05:44:59 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 30 06:45:12 UTC 2026)
 ```
 *.flowsecurity.app
 mcdalerts-qa.nba.com
