@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jan 30 14:39:09 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jan 30 15:34:11 UTC 2026)
 ```
 www.hoteltonight.com
 auth-identity-qa.nba.com
