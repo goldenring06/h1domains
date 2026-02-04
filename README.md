@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb  4 04:10:38 UTC 2026)
+## Domains with Bounties (Last Updated Wed Feb  4 05:47:50 UTC 2026)
 ```
 superbet.bet.br
 www.momondo.com
