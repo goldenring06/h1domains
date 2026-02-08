@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb  8 15:27:03 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb  8 16:28:59 UTC 2026)
 ```
 api.vault.chiatest.net
 https://ebctest.cybersource.com/dmconfigapi
