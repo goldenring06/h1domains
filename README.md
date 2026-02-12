@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Feb 12 19:51:47 UTC 2026)
+## Domains with Bounties (Last Updated Thu Feb 12 20:32:52 UTC 2026)
 ```
 mcdalerts.nba.com
 backend-sdk.uat.private.unico.run
