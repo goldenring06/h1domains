@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 14 04:12:31 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 14 05:42:54 UTC 2026)
 ```
 wechat.api.marriott.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v2/query/overlappinggroups
