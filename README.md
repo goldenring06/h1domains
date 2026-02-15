@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 15 14:26:38 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 15 15:24:16 UTC 2026)
 ```
 wga.volans.tech
 http://auth.khealth.com/mayo-la-crosse/sign-up
