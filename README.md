@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 15 11:24:12 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 15 12:44:08 UTC 2026)
 ```
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 zelleservice.my.site.com
