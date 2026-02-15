@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 15 21:25:44 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 15 22:21:50 UTC 2026)
 ```
 klarna.net
 https://superbet.rs
