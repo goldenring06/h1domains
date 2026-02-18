@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Feb 18 22:33:50 UTC 2026)
+## Domains with Bounties (Last Updated Wed Feb 18 23:27:47 UTC 2026)
 ```
 https://safe.heytap.com/
 www.logitech.com.cn
