@@ -8,11 +8,11 @@ vercel-open-source,https://github.com/vercel/flags,True
 vercel-open-source,https://github.com/vercel/vercel,True
 vercel-open-source,https://github.com/vercel/ms,True
 vercel-open-source,https://github.com/nitrojs/nitro,True
-vercel-open-source,https://github.com/vercel/workflow,True
 vercel-open-source,https://github.com/vercel/swr,True
 vercel-open-source,https://github.com/vercel-labs/skills,True
 vercel-open-source,https://github.com/vercel/ai,True
 vercel-open-source,https://github.com/vercel/async-sema,True
+vercel-open-source,https://github.com/vercel/workflow,True
 dailypay_vdp,https://github.com/dailypay/*,False
 lightspark_bbp,https://github.com/lightsparkdev/swift-wallet-sdk,False
 lightspark_bbp,https://github.com/lightsparkdev/flutter-sdk,True
@@ -45,8 +45,8 @@ pagerduty,https://github.com/rundeck/rundeck-cli,False
 pagerduty,https://github.com/rundeck/rundeck,False
 circle-bbp,https://github.com/circlefin/stablecoin-starknet,True
 circle-bbp,https://github.com/circlefin/aptos-cctp,True
-circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/stablecoin-aptos,True
+circle-bbp,https://github.com/circlefin/stablecoin-sui,True
 circle-bbp,https://github.com/circlefin/sui-cctp,True
 chia_network,https://github.com/Chia-Network/chia-blockchain-gui,True
 chia_network,https://github.com/Chia-Network/chiavdf,True
@@ -63,4 +63,3 @@ kiwicom,https://github.com/kiwicom/*,True
 moonpay,https://github.com/moonpay,True
 doppler,https://github.com/DopplerHQ/cli,True
 us-department-of-state,https://github.com/USStateDept,False
-metamask,https://github.com/Web3Auth/web3auth-web,True
