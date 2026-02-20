@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 20 14:48:23 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 20 15:38:27 UTC 2026)
 ```
 moneybirdstorage.com
 *.grammarly.com
