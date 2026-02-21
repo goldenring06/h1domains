@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 21 09:31:08 UTC 2026)
+## Domains with Bounties (Last Updated Sat Feb 21 10:23:59 UTC 2026)
 ```
 sell.moonpay.com
 vfo02.vodafone.om
