@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Feb 22 18:35:34 UTC 2026)
+## Domains with Bounties (Last Updated Sun Feb 22 19:23:44 UTC 2026)
 ```
 api.sorare.com
 *.audible.(TLD)
