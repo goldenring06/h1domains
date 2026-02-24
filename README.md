@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 24 07:00:31 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb 24 07:55:28 UTC 2026)
 ```
 manage-uat.nba.com
 www.dyson.de
