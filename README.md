@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Feb 24 04:20:58 UTC 2026)
+## Domains with Bounties (Last Updated Tue Feb 24 05:58:15 UTC 2026)
 ```
 gleague-dev.nba.com
 identityhomolog.acesso.io
