@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 27 14:46:15 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 27 15:37:48 UTC 2026)
 ```
 platform.8x8.com
 *.superbet.com
