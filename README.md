@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Feb 27 09:41:56 UTC 2026)
+## Domains with Bounties (Last Updated Fri Feb 27 10:35:40 UTC 2026)
 ```
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 www.swoodoo.com
