@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar  1 09:31:06 UTC 2026)
+## Domains with Bounties (Last Updated Sun Mar  1 10:22:50 UTC 2026)
 ```
 metasearch-api.booking.com
 https://oneview.threatdownstage.com
