@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Feb 28 23:21:33 UTC 2026)
+## Domains with Bounties (Last Updated Sun Mar  1 02:02:04 UTC 2026)
 ```
 vacations.universalstudioshollywood.com
 pangle-mediation-ttp.tiktokpangle.us
