@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  2 05:55:15 UTC 2026)
+## Domains with Bounties (Last Updated Mon Mar  2 06:55:24 UTC 2026)
 ```
 https://www.oppo.com/id/store
 blueprints.amazon.com
