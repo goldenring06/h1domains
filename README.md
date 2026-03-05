@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar  5 04:14:43 UTC 2026)
+## Domains with Bounties (Last Updated Thu Mar  5 05:45:54 UTC 2026)
 ```
 *.fromspotify.com
 portalinmobiliario.cl
