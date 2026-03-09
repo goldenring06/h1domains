@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar  9 04:16:17 UTC 2026)
+## Domains with Bounties (Last Updated Mon Mar  9 05:57:19 UTC 2026)
 ```
 *.cheaptickets.nl
 storm.wnba.com
