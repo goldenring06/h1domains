@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 13 17:38:36 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar 13 18:39:31 UTC 2026)
 ```
 https://app.wisdomtreeconnect.com
 aquiris.com.br
