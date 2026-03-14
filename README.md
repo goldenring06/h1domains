@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 14 13:44:47 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 14 14:27:35 UTC 2026)
 ```
 *.vliegwinkel.nl
 snaps.metamask.io
