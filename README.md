@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Mar 19 17:58:02 UTC 2026)
+## Domains with Bounties (Last Updated Thu Mar 19 19:21:07 UTC 2026)
 ```
 www.triseptsolutions.com
 business.linkedin.com
