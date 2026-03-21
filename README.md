@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 21 18:36:16 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 21 19:22:55 UTC 2026)
 ```
 playartifact.com
 creatormarketplace.tiktok.com
