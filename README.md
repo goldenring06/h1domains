@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 21 01:47:16 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 21 04:04:23 UTC 2026)
 ```
 www.practicalmoneyskills.org
 jobs.kiwi.com
