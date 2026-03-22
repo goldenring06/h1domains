@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 22 08:35:17 UTC 2026)
+## Domains with Bounties (Last Updated Sun Mar 22 09:30:37 UTC 2026)
 ```
 cweb-ott-devint.nba.com
 *.musta.ch
