@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Mar 23 23:33:33 UTC 2026)
+## Domains with Bounties (Last Updated Tue Mar 24 01:51:24 UTC 2026)
 ```
 *.logstash.net
 app.smtp2go.com
