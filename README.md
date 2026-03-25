@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 25 04:23:50 UTC 2026)
+## Domains with Bounties (Last Updated Wed Mar 25 06:01:56 UTC 2026)
 ```
 job.ryadom.kz
 connect.8x8.com
