@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Mar 25 07:13:14 UTC 2026)
+## Domains with Bounties (Last Updated Wed Mar 25 08:46:50 UTC 2026)
 ```
 aus5.mozilla.org
 console.tink.com
