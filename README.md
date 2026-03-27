@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 27 19:44:12 UTC 2026)
+## Domains with Bounties (Last Updated Fri Mar 27 20:36:45 UTC 2026)
 ```
 super6.skysports.com
 nmtracking.netflix.com
