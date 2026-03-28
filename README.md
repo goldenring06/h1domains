@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Mar 27 23:33:22 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 28 01:56:05 UTC 2026)
 ```
 billingsupport.chaturbate.com
 www.dysoncanada.ca
