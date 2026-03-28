@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 28 10:33:00 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 28 11:26:39 UTC 2026)
 ```
 br.nba.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
