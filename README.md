@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Mar 28 16:34:34 UTC 2026)
+## Domains with Bounties (Last Updated Sat Mar 28 17:26:59 UTC 2026)
 ```
 www.dyson.com.sg
 http://verified.clearme.com/dashboard
