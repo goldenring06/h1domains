@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Mar 29 14:36:32 UTC 2026)
+## Domains with Bounties (Last Updated Sun Mar 29 15:30:08 UTC 2026)
 ```
 www.triseptapi.com
 https://ebctest.cybersource.com/boarding/v1/templates
