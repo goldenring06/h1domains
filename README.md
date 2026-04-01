@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr  1 21:43:24 UTC 2026)
+## Domains with Bounties (Last Updated Wed Apr  1 22:36:25 UTC 2026)
 ```
 login-4njbets.us.betfair.com
 www.dyson.nl
