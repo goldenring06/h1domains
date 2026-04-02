@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  2 16:07:08 UTC 2026)
+## Domains with Bounties (Last Updated Thu Apr  2 16:59:52 UTC 2026)
 ```
 www.xnxx.gold
 app.grammarly.com
