@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr  3 14:07:14 UTC 2026)
+## Domains with Bounties (Last Updated Fri Apr  3 15:38:53 UTC 2026)
 ```
 demo.dynamic.xyz
 stats.wnba.com
