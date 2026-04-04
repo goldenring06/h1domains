@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  4 07:01:13 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr  4 07:51:28 UTC 2026)
 ```
 tucarro.com
 *.steamstatic.com
