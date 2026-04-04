@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr  4 09:39:02 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr  4 10:33:12 UTC 2026)
 ```
 press.priceline.com
 https://communities.epicgames.com
