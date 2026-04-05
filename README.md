@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  5 05:13:24 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr  5 07:03:55 UTC 2026)
 ```
 *.miui.cn
 mercantile.wordpress.org
