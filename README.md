@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr  5 16:37:29 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr  5 17:28:45 UTC 2026)
 ```
 woocommerce-adapter.judge.me
 create.fortnite.com
