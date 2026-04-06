@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Apr  6 22:37:43 UTC 2026)
+## Domains with Bounties (Last Updated Mon Apr  6 23:35:24 UTC 2026)
 ```
 https://www.myntra.com
 mercadoplay.com.uy
