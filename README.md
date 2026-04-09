@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr  9 17:25:46 UTC 2026)
+## Domains with Bounties (Last Updated Thu Apr  9 19:02:45 UTC 2026)
 ```
 kaccount.khealth.com
 waf.cumulusfire.net
