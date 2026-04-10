@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Apr 10 05:26:26 UTC 2026)
+## Domains with Bounties (Last Updated Fri Apr 10 07:24:59 UTC 2026)
 ```
 us1.badoo.com
 api.vhx.tv
