@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 11 07:09:37 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr 11 08:40:44 UTC 2026)
 ```
 app.snapchat.com
 https://drp.myoppo.com/
