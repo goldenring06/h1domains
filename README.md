@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Apr 16 09:21:06 UTC 2026)
+## Domains with Bounties (Last Updated Thu Apr 16 11:01:15 UTC 2026)
 ```
 horizonchase.com.br
 paymentcomponent.booking.com
