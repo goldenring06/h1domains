@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Apr 21 21:46:07 UTC 2026)
+## Domains with Bounties (Last Updated Tue Apr 21 22:36:32 UTC 2026)
 ```
 https://ebctest.cybersource.com/vts
 cweb-ott-qa.nba.com
