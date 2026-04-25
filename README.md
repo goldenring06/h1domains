@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Apr 25 20:36:45 UTC 2026)
+## Domains with Bounties (Last Updated Sat Apr 25 21:35:36 UTC 2026)
 ```
 http://testnet.bybit.eu
 aces-dev.wnba.com
