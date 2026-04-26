@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Apr 26 13:03:51 UTC 2026)
+## Domains with Bounties (Last Updated Sun Apr 26 14:07:51 UTC 2026)
 ```
 http://www.kiwi.com/stories
 dream.wnba.com
