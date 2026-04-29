@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Apr 29 15:15:10 UTC 2026)
+## Domains with Bounties (Last Updated Wed Apr 29 17:28:58 UTC 2026)
 ```
 https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
 *.grindr.io
