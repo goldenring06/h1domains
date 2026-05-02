@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  2 17:45:32 UTC 2026)
+## Domains with Bounties (Last Updated Sat May  2 18:57:21 UTC 2026)
 ```
 www.travelocity.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
