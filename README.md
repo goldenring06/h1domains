@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May  2 05:36:39 UTC 2026)
+## Domains with Bounties (Last Updated Sat May  2 07:29:14 UTC 2026)
 ```
 webhooks.booking.com
 web.koho.ca
