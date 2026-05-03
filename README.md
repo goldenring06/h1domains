@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  3 14:49:43 UTC 2026)
+## Domains with Bounties (Last Updated Sun May  3 15:44:44 UTC 2026)
 ```
 *.githubapp.com
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
