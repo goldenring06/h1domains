@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May  3 16:48:48 UTC 2026)
+## Domains with Bounties (Last Updated Sun May  3 17:46:00 UTC 2026)
 ```
 https://ebctest.cybersource.com/tech-partner-integration
 commercemarketplace.adobe.com
