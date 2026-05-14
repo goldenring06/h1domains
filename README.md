@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu May 14 14:07:18 UTC 2026)
+## Domains with Bounties (Last Updated Thu May 14 17:03:38 UTC 2026)
 ```
 start.khealth.com
 http://secure-iphone-xml.booking.com/json/
