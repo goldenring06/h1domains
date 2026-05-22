@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri May 22 21:11:46 UTC 2026)
+## Domains with Bounties (Last Updated Fri May 22 22:57:32 UTC 2026)
 ```
 www.evernote.com
 *.yelp.com
