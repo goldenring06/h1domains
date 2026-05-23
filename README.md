@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat May 23 22:54:17 UTC 2026)
+## Domains with Bounties (Last Updated Sat May 23 23:55:50 UTC 2026)
 ```
 whyisend.com
 *.xiaomiprint.com
