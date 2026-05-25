@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon May 25 00:02:04 UTC 2026)
+## Domains with Bounties (Last Updated Mon May 25 03:56:50 UTC 2026)
 ```
 *.skybetservices.com
 https://c.realme.com/global/
