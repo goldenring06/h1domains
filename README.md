@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun May 31 08:41:52 UTC 2026)
+## Domains with Bounties (Last Updated Sun May 31 10:56:49 UTC 2026)
 ```
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 api.moonpay.com
