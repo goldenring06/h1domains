@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun  6 06:32:22 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jun  6 09:25:28 UTC 2026)
 ```
 hpanel.hostinger.com
 *.sprint.apps.dynatracelabs.com
