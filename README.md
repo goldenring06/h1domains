@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun  9 15:58:40 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jun  9 18:00:01 UTC 2026)
 ```
 *.mercadolivre.com.br
 gateway.geneva-staging.chat
