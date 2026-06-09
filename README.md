@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun  8 22:28:29 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jun  9 00:05:36 UTC 2026)
 ```
 https://safe.heytap.com/
 datapod-2-ingest.acceptance.forescoutcloud.net
