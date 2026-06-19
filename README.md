@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jun 19 15:02:41 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jun 19 17:19:59 UTC 2026)
 ```
 manage-uat.nba.com
 *.mercadopago.com.pe
