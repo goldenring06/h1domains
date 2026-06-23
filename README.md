@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jun 22 22:47:24 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jun 23 00:03:45 UTC 2026)
 ```
 *.napoleoncasino.be
 fileupload-video.tw.coupang.com
