@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jun 27 16:05:14 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jun 27 18:01:01 UTC 2026)
 ```
 https://ebctest.cybersource.com/CGK2
 store.playstation.com
