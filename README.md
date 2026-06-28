@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jun 28 00:03:22 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jun 28 04:15:22 UTC 2026)
 ```
 *.devicelock.com
 wpscan.com
