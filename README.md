@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jun 30 21:26:56 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jun 30 23:10:25 UTC 2026)
 ```
 developer-platform-api.crypto.com
 translate.badoo.com
