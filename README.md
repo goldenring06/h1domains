@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul  1 23:15:41 UTC 2026)
+## Domains with Bounties (Last Updated Thu Jul  2 02:55:16 UTC 2026)
 ```
 www.s-pankki.fi
 *.hoteltonight.com
