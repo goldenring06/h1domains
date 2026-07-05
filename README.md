@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul  5 20:59:48 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jul  5 21:59:52 UTC 2026)
 ```
 api.mercadolibre.com
 *.musta.ch
