@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul  4 22:57:05 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jul  5 00:00:56 UTC 2026)
 ```
 *.foliodigitalwealth.com
 www.ultimateears.com
