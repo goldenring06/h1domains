@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Jul  6 22:12:59 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jul  7 00:05:48 UTC 2026)
 ```
 *.robinhood.net
 core-api-uat-uc.nba.com
