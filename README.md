@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Jul  7 21:25:58 UTC 2026)
+## Domains with Bounties (Last Updated Tue Jul  7 23:01:09 UTC 2026)
 ```
 social.geneva-staging.com
 x.razorpay.com
