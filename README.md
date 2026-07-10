@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 10 08:24:41 UTC 2026)
+## Domains with Bounties (Last Updated Fri Jul 10 11:52:57 UTC 2026)
 ```
 https://webrtc.8x8.com/
 yourdomain.freshrelease.com
