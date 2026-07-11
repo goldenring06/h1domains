@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Jul 10 23:05:01 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jul 11 00:05:59 UTC 2026)
 ```
 staking-api.polygon.technology
 bcny.com
