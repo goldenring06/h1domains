@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Jul 11 16:54:51 UTC 2026)
+## Domains with Bounties (Last Updated Sat Jul 11 17:56:59 UTC 2026)
 ```
 http1mustdie.com
 my.pressable.com
