@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Jul 19 13:13:26 UTC 2026)
+## Domains with Bounties (Last Updated Sun Jul 19 14:53:13 UTC 2026)
 ```
 mcd-devint.nba.com
 *.deribit.com
