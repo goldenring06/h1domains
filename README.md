@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 22 21:07:49 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jul 22 22:59:41 UTC 2026)
 ```
 *.gsam.com
 ripcity.gleague.nba.com
