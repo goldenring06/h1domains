@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Jul 29 22:02:09 UTC 2026)
+## Domains with Bounties (Last Updated Wed Jul 29 23:00:44 UTC 2026)
 ```
 www.goodrx.com
 *.airstar.com
