@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  1 22:56:11 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug  1 23:55:48 UTC 2026)
 ```
 wolt.com
 bakersfield-qa.gleague.nba.com
