@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  1 15:01:36 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug  1 16:03:52 UTC 2026)
 ```
 *.expediapartnercentral.com
 steamcommunity.com
