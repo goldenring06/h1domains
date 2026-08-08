@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  8 13:43:48 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug  8 14:29:57 UTC 2026)
 ```
 shop.whoop.com
 aguacaliente.gleague.nba.com
