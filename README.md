@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug  8 18:35:54 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug  8 19:27:42 UTC 2026)
 ```
 https://c.realme.com/ru/
 api.paybox.sh
