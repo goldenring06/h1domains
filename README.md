@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  9 07:55:45 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug  9 08:38:56 UTC 2026)
 ```
 www.visa.com.hr
 www.goodrx.com
