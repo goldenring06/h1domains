@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug  9 12:42:56 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug  9 13:49:36 UTC 2026)
 ```
 saltlakecity.gleague.nba.com
 *.capitalone.ca
