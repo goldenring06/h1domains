@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 10 17:55:44 UTC 2026)
+## Domains with Bounties (Last Updated Mon Aug 10 18:54:56 UTC 2026)
 ```
 www.dyson.co.uk
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
