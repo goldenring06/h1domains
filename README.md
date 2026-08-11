@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Aug 11 21:01:22 UTC 2026)
+## Domains with Bounties (Last Updated Tue Aug 11 21:42:53 UTC 2026)
 ```
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 *.mbamupdates.com
