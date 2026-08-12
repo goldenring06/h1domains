@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 12 14:31:25 UTC 2026)
+## Domains with Bounties (Last Updated Wed Aug 12 16:10:51 UTC 2026)
 ```
 mercadolivreexperience.com.br
 www.visa.com.hr
