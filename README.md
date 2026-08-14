@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Fri Aug 14 16:57:52 UTC 2026)
+## Domains with Bounties (Last Updated Fri Aug 14 17:58:56 UTC 2026)
 ```
 portfolio.ccpsx.com
 authentication.clearme.com
