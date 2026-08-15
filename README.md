@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 15 10:19:29 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug 15 11:17:30 UTC 2026)
 ```
 maine.gleague.nba.com
 http://verified.clearme.com/dashboard
