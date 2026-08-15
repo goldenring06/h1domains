@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 15 15:20:49 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug 15 16:20:57 UTC 2026)
 ```
 simperium.com
 *.nflxext.com
