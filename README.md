@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 16 07:31:18 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug 16 08:26:00 UTC 2026)
 ```
 client-api.arkoselabs.com
 blog.unico.io
