@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 16 05:28:09 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug 16 06:33:58 UTC 2026)
 ```
 cweb-ott-qa-preview.nba.com
 *.slotomania.com
