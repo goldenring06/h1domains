@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Mon Aug 17 05:33:46 UTC 2026)
+## Domains with Bounties (Last Updated Mon Aug 17 06:47:01 UTC 2026)
 ```
 hiltonbusinessonline.com
 aces-qa2.wnba.com
