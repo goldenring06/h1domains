@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 20 12:52:40 UTC 2026)
+## Domains with Bounties (Last Updated Thu Aug 20 13:44:58 UTC 2026)
 ```
 https://ebctest.cybersource.com/notification-subscriptions
 *.napoleoncasino.be
