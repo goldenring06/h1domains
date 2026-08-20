@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Aug 20 19:35:09 UTC 2026)
+## Domains with Bounties (Last Updated Thu Aug 20 20:25:42 UTC 2026)
 ```
 *.sbgcdn.com
 http://urc-uefn.live.ucs.on.epicgames.com
