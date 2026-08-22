@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 22 16:22:36 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug 22 17:18:05 UTC 2026)
 ```
 ballistic.com
 auth-identity-qa-ping.nba.com
