@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Aug 22 06:36:51 UTC 2026)
+## Domains with Bounties (Last Updated Sat Aug 22 07:31:29 UTC 2026)
 ```
 cloudflareworkers.com
 buy.faraday.ai
