@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 23 03:02:09 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug 23 03:53:32 UTC 2026)
 ```
 https://app.wisdomtreeconnect.com/o/token/
 grandrapids.gleague.nba.com
