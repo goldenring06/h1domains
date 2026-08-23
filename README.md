@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Aug 23 04:36:27 UTC 2026)
+## Domains with Bounties (Last Updated Sun Aug 23 05:26:06 UTC 2026)
 ```
 green.nba.com
 sandbox-b2b.ripio.com
