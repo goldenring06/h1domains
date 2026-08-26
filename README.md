@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Aug 26 08:44:49 UTC 2026)
+## Domains with Bounties (Last Updated Wed Aug 26 09:37:52 UTC 2026)
 ```
 core-api-aws-uat.nba.com
 seller.temu.com
