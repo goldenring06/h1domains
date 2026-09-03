@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  3 02:49:36 UTC 2026)
+## Domains with Bounties (Last Updated Thu Sep  3 07:45:30 UTC 2026)
 ```
 *.skybettingandgaming.com
 clicks.koho.ca
