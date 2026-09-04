@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep  3 22:16:51 UTC 2026)
+## Domains with Bounties (Last Updated Fri Sep  4 00:43:49 UTC 2026)
 ```
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 www.paypal-*.com
