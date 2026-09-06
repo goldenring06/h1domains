@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep  6 21:57:58 UTC 2026)
+## Domains with Bounties (Last Updated Sun Sep  6 23:30:45 UTC 2026)
 ```
 ec2-redirect-west.nba.com
 *.sketchfab.com
