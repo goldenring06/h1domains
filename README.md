@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 15 15:34:57 UTC 2026)
+## Domains with Bounties (Last Updated Tue Sep 15 19:31:30 UTC 2026)
 ```
 www.logitechg.com
 www.funjet.com
