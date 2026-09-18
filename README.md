@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 17 23:54:32 UTC 2026)
+## Domains with Bounties (Last Updated Fri Sep 18 02:59:52 UTC 2026)
 ```
 portalinmobiliario.cl
 *.audible.(TLD)
