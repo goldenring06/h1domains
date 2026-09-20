@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 20 17:19:58 UTC 2026)
+## Domains with Bounties (Last Updated Sun Sep 20 20:17:21 UTC 2026)
 ```
 content-api-uat.nba.com
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
