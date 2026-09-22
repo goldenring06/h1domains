@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Tue Sep 22 19:40:06 UTC 2026)
+## Domains with Bounties (Last Updated Tue Sep 22 22:44:16 UTC 2026)
 ```
 http://www.bybit.com/en/alpha/overview/
 cweb-ott-preview.nba.com
