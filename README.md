@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Thu Sep 24 20:27:22 UTC 2026)
+## Domains with Bounties (Last Updated Thu Sep 24 23:45:59 UTC 2026)
 ```
 *.worldcoin.org
 identity-server-ping.nba.com
