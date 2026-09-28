@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Sep 27 23:39:48 UTC 2026)
+## Domains with Bounties (Last Updated Mon Sep 28 03:24:37 UTC 2026)
 ```
 visainnovationprogram.com
 ctf.hacker101.com
