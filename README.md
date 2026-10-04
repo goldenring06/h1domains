@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sun Oct  4 04:06:36 UTC 2026)
+## Domains with Bounties (Last Updated Sun Oct  4 10:53:45 UTC 2026)
 ```
 https://napoleonsports.be
 http://verified.clearme.com/dashboard
