@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 10 19:17:30 UTC 2026)
+## Domains with Bounties (Last Updated Sat Oct 10 23:11:56 UTC 2026)
 ```
 ic3-gw-scf.euce1.indriverapp.com
 *.amazon.it
