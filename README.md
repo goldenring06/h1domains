@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Sat Oct 10 01:32:31 UTC 2026)
+## Domains with Bounties (Last Updated Sat Oct 10 08:04:01 UTC 2026)
 ```
 ccardsus1.badoo.com
 api.grabpay.com
