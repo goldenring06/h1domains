@@ -2,7 +2,7 @@
 hackerone "in-scope" domains
 
 `python3 hackerone.py`
-## Domains with Bounties (Last Updated Wed Oct 14 00:09:38 UTC 2026)
+## Domains with Bounties (Last Updated Wed Oct 14 05:46:43 UTC 2026)
 ```
 https://zhongbao.heytap.com/
 payments.geneva-staging.chat
